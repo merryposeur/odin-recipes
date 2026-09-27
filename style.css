@@ -1,0 +1,28 @@
+body {
+  box-sizing: content-box;
+  background-color: #f2e6d8;
+}
+
+h1 {
+  color: #bf9b7a;
+  background-color: #593e2e;
+  margin: 10px auto;
+  text-align: center;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  border-color: #555934;
+  border-width: 25px;
+  font-size: 25px;
+}
+
+ul {
+  background-color: #555934;
+  padding: 5px;
+  width: auto;
+  margin: auto;
+}
+
+li {
+  padding: 10px;
+  background-color: #bf9b7a;
+  margin: 5px;
+}
